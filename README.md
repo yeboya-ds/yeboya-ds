@@ -1,6 +1,6 @@
 \## Hey there, I'm Boya Ye! 👋
 
-🔭 Right now, I'm diving into the **SMC CRISP project** and creating some cool **Emergency Management Tools** to keep our communities safe and resilient!
+🔭 Right now, I'm diving into the **CRISP project** and creating some cool **Emergency Management Tools** to keep our communities safe and resilient!
 
 👯 Always on the lookout for exciting opportunities to collaborate on **GIS wizardry**, **data visualization magic**, or any project that blends **technology**, **design**, and a touch of **innovation**.
 
